@@ -1,74 +1,54 @@
 
 
-
-<h3 align="center">Axel Israel Ceron Ortega</h3>
-<h4 align="center">- Ingeniero en Sistemas Computacionales -</h4>
-<br>
-
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
 <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
-</div>
-
-
+## Sobre mí
+<h1 align="center"> Fullstack Developer</h1>
+<h3 align="center">Axel Israel Ceron Ortega</h3>
+<h4 align="center">- Ingeniero en Sistemas Computacionales -</h4>
+<p>
+ Desarrollador enfocado a la resolución de conflictos en el área de desarrollo de software, creación de RPA, consumo y desarrollo de APIs así como aplicativos web con diversas tecnologías tanto en back-end como front-end de forma rápida y eficaz
+</p>
 <br>
 
-## Language and Tools
+
+
+
+
+## Herramientas
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+#### Actualmente laboro con:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,bootstrap,dotnet,git&perline=4" alt="tecnologias actuales"/>
+
+### Tengo conocimientos en:
+
+<img src="https://skillicons.dev/icons?i=mongodb,bash,postman,py,powershell,ts,docker&perline=10" alt="tecnologias actuales"/>
+  
 
 
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
-#### Tools:
+#### IDEs y editores de codigo:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
-<br>
 
-## Academic Background:
+  <img height="30px" align="left" width="150px" alt="Icone VS-Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img height="30px" align="left" width="150px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img height="30px"  align="left" width="150px" alt="" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+  <img height="30px"  align="left" width="150px" alt="" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"/>
+  <img height="30px"  align="left" width="150px" alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
-**Software Engineering Undergraduate** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+ 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
-**Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+  
 
 <br>
 
-## Contact me:
-<div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
-
-------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
