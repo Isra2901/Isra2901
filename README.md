@@ -11,7 +11,7 @@
 <h3 align="center">Axel Israel Ceron Ortega</h3>
 <h4 align="center">- Ingeniero en Sistemas Computacionales -</h4>
 <p>
- Desarrollador enfocado a la resolución de conflictos en el área de desarrollo de software, creación de RPA, consumo y desarrollo de APIs así como aplicativos web con diversas tecnologías tanto en back-end como front-end de forma rápida y eficaz
+ Desarrollador enfocado a la resolución de conflictos en el área de software, creación de RPA, consumo y desarrollo de APIs así como aplicativos web con diversas tecnologías tanto en back-end como front-end de forma rápida y eficaz
 </p>
 <br>
 
@@ -26,11 +26,11 @@
 
 #### Actualmente laboro con:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,bootstrap,dotnet,git&perline=4" alt="tecnologias actuales"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,bootstrap,dotnet,git,jquery&perline=4" alt="tecnologias actuales"/>
 
-### Tengo conocimientos en:
+#### Tengo conocimientos en:
 
-<img src="https://skillicons.dev/icons?i=mongodb,bash,postman,py,powershell,ts,docker&perline=10" alt="tecnologias actuales"/>
+<img src="https://skillicons.dev/icons?i=mongodb,bash,postman,py,powershell,ts,docker,java&perline=10" alt="tecnologias actuales"/>
   
 
 
@@ -43,12 +43,22 @@
   <img height="30px" align="left" width="150px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img height="30px"  align="left" width="150px" alt="" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
   <img height="30px"  align="left" width="150px" alt="" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"/>
+  
   <img height="30px"  align="left" width="150px" alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 
- 
 
+
+
+<br><br>
+#### Sistemas Operativos:
+
+<img src="https://skillicons.dev/icons?i=windows,linux&perline=4" alt="Sistemas Operativos"/>
+
+
+<Br>
+<hr>
+<Br>
+<h1>Mis Proyectos! </h1>
+<Br>
   
-
-<br>
-
 
